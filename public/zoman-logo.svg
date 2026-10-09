@@ -1,0 +1,100 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500" width="100%" height="100%">
+  <!-- ZôMAN Logo - 100% Transparent Background -->
+  <!-- 1. Vòng xoáy trên màu xám chì than (Charcoal) -->
+  <path
+    d="M 140 55
+       C 240 25, 370 55, 435 140
+       C 475 195, 480 270, 445 340
+       C 430 370, 405 395, 375 415
+       C 385 395, 390 370, 390 345
+       C 390 280, 360 215, 315 165
+       C 265 110, 200 75, 140 55 Z"
+    fill="#4B5563"
+  />
+
+  <!-- 2. Vòng xoáy dưới màu đỏ rực thương hiệu (Red) -->
+  <path
+    d="M 360 445
+       C 260 475, 130 445, 65 360
+       C 25 305, 20 230, 55 160
+       C 70 130, 95 105, 125 85
+       C 115 105, 110 130, 110 155
+       C 110 220, 140 285, 185 335
+       C 235 390, 300 425, 360 445 Z"
+    fill="#DC2626"
+  />
+
+  <!-- 3. Huy hiệu tròn Z ở góc trên bên phải -->
+  <g transform="translate(330, 190)">
+    <path
+      d="M -32 -18 A 38 38 0 0 1 36 -6"
+      stroke="#4B5563"
+      stroke-width="5.5"
+      stroke-linecap="round"
+      fill="none"
+    />
+    <path
+      d="M 32 18 A 38 38 0 0 1 -36 6"
+      stroke="#DC2626"
+      stroke-width="5.5"
+      stroke-linecap="round"
+      fill="none"
+    />
+    <path
+      d="M -16 -12 L 16 -12 L -14 14 L 18 14"
+      stroke="#DC2626"
+      stroke-width="8.5"
+      stroke-linecap="round"
+      stroke-linejoin="round"
+      fill="none"
+    />
+  </g>
+
+  <!-- 4. Chữ ZÔMAN trung tâm -->
+  <!-- Chữ Z đỏ -->
+  <path
+    d="M 95 235 L 165 235 L 100 310 L 175 310"
+    stroke="#DC2626"
+    stroke-width="18"
+    stroke-linecap="round"
+    stroke-linejoin="round"
+    fill="none"
+  />
+
+  <!-- Chữ Ô đỏ -->
+  <path
+    d="M 195 224 L 210 210 L 225 224"
+    stroke="#DC2626"
+    stroke-width="7"
+    stroke-linecap="round"
+    stroke-linejoin="round"
+    fill="none"
+  />
+  <rect
+    x="185"
+    y="238"
+    width="52"
+    height="68"
+    rx="17"
+    fill="#DC2626"
+  />
+  <rect
+    x="200"
+    y="253"
+    width="22"
+    height="38"
+    rx="8"
+    fill="#FFFFFF"
+  />
+
+  <!-- Chữ MAN xám than chì -->
+  <text
+    x="250"
+    y="310"
+    fill="#1F2937"
+    font-family="system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif"
+    font-weight="900"
+    font-size="76"
+    letter-spacing="2"
+  >MAN</text>
+</svg>
